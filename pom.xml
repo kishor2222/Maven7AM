@@ -36,12 +36,12 @@ Here we are giving war package format
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.234.178:8081/repository/power-release/</url>
+            <url>http://192.168.234.182:8081/repository/nexus-rele/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.234.178:8081/repository/power-snap/</url>
+            <url>http://192.168.234.182:8081/repository/nexus-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
